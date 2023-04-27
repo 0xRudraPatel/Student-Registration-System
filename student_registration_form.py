@@ -174,7 +174,7 @@ def genderSelection():
 
 
 #top frames
-Label(root, text="Python Project (Rudra Patel - K057, Yashvardhan Matolia - K075)", width=10, height=3, bg="#f0687c", anchor='e').pack(side=TOP, fill=X)
+Label(root, text="Python Project", width=10, height=3, bg="#f0687c", anchor='e').pack(side=TOP, fill=X)
 Label(root, text="STUDENT REGISTRATION", width=10, height=2, bg="#C36464", fg="#fff", font=("arial", 20)).pack(side=TOP, fill=X)
 
 #Registration Date and Number
